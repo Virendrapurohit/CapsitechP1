@@ -99,8 +99,12 @@ span {
 }
 .sec-4-logo {
   padding: 20px 0px;
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid #c7aeae;
   object-fit: contain;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
 .sec-4-logo img {
   object-fit: contain;
