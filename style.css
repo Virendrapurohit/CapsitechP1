@@ -26,15 +26,14 @@ body {
   justify-content: space-between;
 }
 .left a {
-  margin: 0px 41px;
-  font-size: 10px;
+  margin: 0px 103px;
+  font-size: 14px;
   text-decoration: none;
   color: #343333;
 }
 span {
   color: #fb6f04;
-  font-size: 13px;
-  padding-bottom: 20%;
+  font-size: 14px;
 }
 .header-footer {
   display: flex;
@@ -47,7 +46,7 @@ span {
   gap: 40px;
   list-style: none;
   color: white;
-  background-color: #341a1a;
+  background-color: #38271b;
   padding: 18px 125px;
   border-radius: 5px;
   height: 20px;
@@ -87,11 +86,8 @@ span {
 .button-1 {
   text-align: center;
 }
-.btn1 {
-  padding: 12px 30px;
-  background-color: #dd5e30;
-  border-radius: 8px;
-}
+
+
 .sec-4 {
   padding: 15px 0px;
   margin: 0px;
