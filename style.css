@@ -17,7 +17,6 @@ body {
   width: 100%;
   height: 490px;
   background-image: url(Images/Header.jpg);
-
   background-size: cover;
 }
 .header {
@@ -149,7 +148,7 @@ span {
   box-shadow: 18px 0px 56px 1px #c7c7c7;
   padding: 17px 24px;
   margin: auto;
-  width: 850px;
+  width: 859px;
 }
 table {
   font-family: arial, sans-serif;
@@ -173,7 +172,6 @@ th {
 .footer {
   margin: 25px 0;
   display: flex;
-  border-bottom: 5px orangered solid;
 }
 .footer-1 {
   width: 300px;
@@ -193,11 +191,12 @@ th {
   text-decoration: none;
   color: #805647;
 }
-.footer h2 {
-  color: orangered;
+.footer h3 {
+  color: #ff8a53;
 }
 .footer-5 p {
   background-color: #e4e3e2;
   padding: 8px;
   height: 29px;
+  border-top: 5px #ff8a53 solid;
 }
