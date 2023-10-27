@@ -70,9 +70,6 @@ span {
   align-items: center;
   margin: 60px 0px;
 }
-.img-fluid {
-  height: 460px;
-}
 
 .sec-right h1 {
   color: #584b42;
@@ -82,7 +79,7 @@ span {
   margin-bottom: -7px;
 }
 .sec-right p {
-  width: 76%;
+  width: 86%;
   color: #6e6e6e;
 }
 /* <!------------------------------------------------------------------------------section-3 panel-3  is start---------------------------------------------------
@@ -142,6 +139,9 @@ span {
   background-color: #ff8a53;
   border-radius: 5px;
   border: none;
+}
+.button-1 :hover {
+  background-color: #8a766f;
 }
 /* <!-------------------------------------------------------------------------------section-4 panel-4  is start---------------------------------------------------
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------> */
@@ -271,6 +271,9 @@ th {
   float: left;
   width: 50%;
 }
+.links li :hover {
+  color: #fff;
+}
 .footer-3 {
   width: 304px;
   line-height: 28px;
@@ -300,4 +303,7 @@ th {
   background-color: #f3f7f8;
   padding: 8px;
   color: #805647;
+}
+.icons :hover {
+  color: #fff;
 }
